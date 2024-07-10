@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UE5.4_Projects/HookLock/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/UE5.4_Projects/HookLock/Content/_Test/BP_ThirdPersonCharacter.uasset",
+				"D:/UE5.4_Projects/HookLock/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/UE5.4_Projects/HookLock/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2A/T50KJY4BW3L3O8PBF5RPFW.uasset",
+				"D:/UE5.4_Projects/HookLock/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/3H/M37Y2MOSKNH03KMNK7E7QX.uasset"
+			]
+		}
+	]
+}
